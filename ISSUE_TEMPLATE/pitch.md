@@ -1,5 +1,12 @@
+---
+name: Pitch
+about: Pitch a new unit of work for a future cycle
+labels: pitch
+---
+
 ## Problem
 High level outline of the problem, bullet points. Enough to make people understand.
+Include links to relevant issues and discussions.
 
 ## Solution Concept
 [breadboards](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding) and/or [fat marker sketches](https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches)
