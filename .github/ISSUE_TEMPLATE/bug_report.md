@@ -3,12 +3,11 @@ name: Bug Report
 about: Report broken or unexpected behaviour
 labels: bug
 ---
-
-### Description
-**What expectations are not met and how can someone else reproduce the behaviour?**
+## Bug Title
+**Cool descriptive name for your new bug**
 
 ## Description
-**Please decribe the expected behaviour and how it is not being met.**
+**Please describe the expected behaviour and how it is not being met.**
 
 ## Steps To Reproduce
 **Reproduction steps in list form (that someone else could follow if possible)**
