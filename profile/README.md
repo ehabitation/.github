@@ -1,7 +1,9 @@
-![EHAB Logo](https://lh3.googleusercontent.com/3fvKePg3zrJ-h7FBQRjhcSJ-SBACpX9THnpau3-yTbuBuOhSmkDgU2emQQqV_giPcd6ZVXKleUT9VdcRCNJ7xyarCvTjc78=s540)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2471488/183930708-98a5b859-2180-4ec4-924e-ff07ab654f46.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/2471488/183931583-c56b189a-e6d3-4c8a-b794-8f669d67d183.png">
+  <img alt="EHAB Logo" src="https://user-images.githubusercontent.com/2471488/183931583-c56b189a-e6d3-4c8a-b794-8f669d67d183.png">
+</picture>
 
-## Measure, minimise and mitigate weather risk across every project.
+<h3 align="center">The construction industry has a problem with weather risk. We can help you solve it.</h3>
 
-### The construction industry has a problem with weather risk. We can help you solve it.
-
-Learn more & get a demo at [ehab.co](https://ehab.co) 🚀
+<p align="center">Learn more & get a demo at [ehab.co](https://ehab.co) 🚀</p>
