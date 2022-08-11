@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report broken or unexpected behaviour
-labels: bug
+labels: ":bug: bug"
 ---
 ## Bug Title
 **Cool descriptive name for your new bug**

@@ -1,7 +1,7 @@
 ---
 name: Pitch
 about: Pitch a new unit of work for a future cycle
-labels: pitch
+labels: ":bulb: pitch"
 ---
 
 ## Problem
