@@ -8,9 +8,12 @@
 
 <p align="center">Learn more & get a demo at <a href="https://ehab.co">ehab.co</a> ⛈ ✅ 🚀</p>
 
+---
+<br/>
+
 ## Workflows
 
-#### Report Bug
+#### Report Bug
 - [Create Bug Report issue](https://github.com/ehabitation/triage/issues/new/choose)
 
 #### Product Feedback
@@ -26,9 +29,7 @@
 ### Tracking
 - When triaged and refined, bugs and pitches added to [Dev Tracker project](https://github.com/orgs/ehabitation/projects/2)
 - Moved into upcoming cycle (mostly pitches) or cool down (mostly bugs)
-- Dev tracker progress visible in original issue
 - View upcoming cycles & cool down contents in [Dev Tracker planning view](https://github.com/orgs/ehabitation/projects/2/views/9)
-- Further process TBC
 
 ### Development
 #### Pitch
